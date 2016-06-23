@@ -1,0 +1,21 @@
+{
+  "name": "layout_builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzielinski03/layout-builder.git"
+  },
+  "author": "Zielinski Leonardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzielinski03/layout-builder/issues"
+  },
+  "homepage": "https://github.com/lzielinski03/layout-builder#readme"
+}
